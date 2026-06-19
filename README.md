@@ -1,5 +1,6 @@
 # ADCPx_bedlaod_sourcecode
-This code process ADCP - stationary bedload data and compares (the standalone app does only processing, and it is all automatized) to measured data which is added in the input table as given in the intructions 
+This code process ADCP - stationary bedload data and compares (the standalone app does only processing, and it is all automatized) to measured data which is added in the input table as given in the intructions. 
+NOTE: this code works only if you use the PD0 procssed data usinbg ADCPx-preprocessing code (also given as repository here)
 # ADCP Bedload Processing Toolbox
 
 MATLAB workflow for processing stationary RDI (RiverPro and RioGrande) kHz ADCP measurements and estimating riverbed mobility and bedload transport from bottom-track velocity, hydraulic variables, and acoustic backscatter.

@@ -620,11 +620,10 @@ Before merging:
 
 ## Citation
 
-An associated manuscript is currently under review:
+An associated Monograph IAHR is currently under review:
 
-> Conevski, S., Guerrero, M., Tabesh, M., Rennie, C. D., Winterscheid, A., Schippa, L., and Rüther, N. *Towards Reducing Uncertainty in ADCP Bedload Estimates Using Machine Learning: A Multi-River Study*. Manuscript under review at the *Journal of Hydraulic Research*.
+> Guerrero, M., Conevski, S., Rennie, L., and Rüther, N. *.
 
-Update this section with the final DOI and bibliographic information after publication.
 
 ## Contact
 
